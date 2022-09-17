@@ -8,8 +8,9 @@ CodePath's 1st LAB
 A flashcard app that shows a question and when it is pressed it will show the right answer.
 
 ### App Walk-though
+![](https://i.imgur.com/Ju3mzrt.gif)
 
-![](https://imgur.com/a/HOSN7M8.gif)
+
 
 
 ## Required
