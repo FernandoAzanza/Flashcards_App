@@ -6,7 +6,7 @@ Built a way for the user to create a new flashcard, by presenting and dismissing
 ### App Walk-though
 
 
-![](https://i.imgur.com/jfcMONI.gif)
+<img src= ![](https://i.imgur.com/jfcMONI.gif)<br>
 
 
 ## Required
