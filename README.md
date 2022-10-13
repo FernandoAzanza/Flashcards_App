@@ -6,7 +6,12 @@ Flashcards app that can store and create flashcards.
 
 ### App Walk-though
 
-![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/104114682/194993849-ad0c9fdb-6872-4145-b44b-08df1385696a.gif)
+
+![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/104114682/195670908-6cb3459c-c66f-439a-96f7-3238f95ee401.gif)
+
+
+
+
 
 
 
